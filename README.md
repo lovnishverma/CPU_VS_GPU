@@ -336,6 +336,3 @@ If not found, the script will raise an error.
 
 * [PyTorch](https://pytorch.org/)
 * [Torchvision Models](https://pytorch.org/vision/stable/models.html)
-
-```
-
