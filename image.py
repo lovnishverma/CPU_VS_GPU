@@ -160,7 +160,7 @@ def main():
                 'cuda_version': torch.version.cuda if torch.cuda.is_available() else None,
                 'results': results
             }, f, indent=2)
-        print("\n💾 Results saved to logs/benchmark_results.json")
+        print("\n💾 Results are saved to logs/benchmark_results.json")
 
 
 if __name__ == "__main__":
