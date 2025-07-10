@@ -2,7 +2,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17fc02a2-fe08-43f1-a3da-70981b7468b3" />
 
-# Hardware Used:
+# 🖥️ Hardware Used:
 
 **CPU:**
 
