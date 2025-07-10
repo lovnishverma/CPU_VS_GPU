@@ -32,10 +32,10 @@ pip install torch --index-url https://download.pytorch.org/whl/cu118
 2. Download the benchmark script:
 ```bash
 # Using wget
-wget https://raw.githubusercontent.com/your-repo/pytorch-benchmark/main/benchmark.py
+wget https://raw.githubusercontent.com/lovnishverma/CPU_VS_GPU/refs/heads/main/matrix.py
 
 # Or using curl
-curl -O https://raw.githubusercontent.com/your-repo/pytorch-benchmark/main/benchmark.py
+curl -O https://raw.githubusercontent.com/lovnishverma/CPU_VS_GPU/refs/heads/main/matrix.py
 
 # Or simply copy the script from the repository
 ```
