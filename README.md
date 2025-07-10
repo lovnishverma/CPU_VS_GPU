@@ -1,3 +1,5 @@
+# matrix.py
+
 # PyTorch CPU vs GPU Benchmark
 
 A comprehensive benchmarking tool to compare matrix multiplication performance between CPU and GPU using PyTorch. This tool provides detailed performance analysis including timing statistics, FLOPS calculations, and multi-size benchmarking capabilities.
