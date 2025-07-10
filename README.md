@@ -328,7 +328,7 @@ If not found, the script will raise an error.
 
 ## 📜 License
 
-MIT License
+[MIT License](https://github.com/lovnishverma/CPU_VS_GPU/blob/main/LICENSE)
 
 ---
 
