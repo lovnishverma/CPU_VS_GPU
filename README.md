@@ -1,6 +1,7 @@
 # PyTorch CPU vs GPU Benchmark
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17fc02a2-fe08-43f1-a3da-70981b7468b3" />
+![CPUVSGPU](https://github.com/user-attachments/assets/4b168ae0-0e69-4db1-acc5-926fec10cd01)
+
 
 # 🖥️ Hardware Used:
 
