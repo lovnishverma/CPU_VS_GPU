@@ -63,40 +63,40 @@ curl -O https://raw.githubusercontent.com/lovnishverma/CPU_VS_GPU/refs/heads/mai
 
 Run a single benchmark with default settings (10000x10000 matrix, 5 runs):
 ```bash
-python benchmark.py
+python matrix.py
 ```
 
 ### Custom Matrix Size
 
 Benchmark with a specific matrix size:
 ```bash
-python benchmark.py --size 5000
+python matrix.py --size 5000
 ```
 
 ### Multiple Runs
 
 Increase the number of runs for better statistical accuracy:
 ```bash
-python benchmark.py --runs 10
+python matrix.py --runs 10
 ```
 
 ### Multi-Size Benchmarking
 
 Test performance across multiple matrix sizes:
 ```bash
-python benchmark.py --multi-size
+python matrix.py --multi-size
 ```
 
 Custom sizes for multi-size benchmarking:
 ```bash
-python benchmark.py --multi-size --sizes 1000 2000 5000 10000 15000
+python matrix.py --multi-size --sizes 1000 2000 5000 10000 15000
 ```
 
 ### Quick Single Run
 
 For quick testing:
 ```bash
-python benchmark.py --runs 1
+python matrix.py --runs 1
 ```
 
 ## Command Line Arguments
