@@ -331,7 +331,10 @@ Input image must:
 If not found, the script will raise an error.
 
 ---
+## 🧪 Bonus Testing:
+We also tested both the scripts on Raspberry Pi and NVIDIA Jetson Orin Nano™ to compare edge-device performance.
 
+---
 ## 🔧 Future Improvements
 
 * ✅ Graph plotting (matplotlib)
