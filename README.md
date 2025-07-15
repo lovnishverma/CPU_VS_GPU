@@ -334,6 +334,8 @@ If not found, the script will raise an error.
 ## 🧪 Bonus Testing:
 We also tested both the scripts on Raspberry Pi and NVIDIA Jetson Orin Nano™ to compare edge-device performance.
 
+To see results visit: https://github.com/lovnishverma/CPU_VS_GPU/tree/main/for%20edge%20devices%20like%20pi%20and%20jetson
+
 ---
 ## 🔧 Future Improvements
 
